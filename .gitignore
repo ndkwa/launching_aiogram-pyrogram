@@ -131,3 +131,5 @@ dmypy.json
 =======
 .pyre/
 >>>>>>> de27558 (1.0.0)
+
+*.session
