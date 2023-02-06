@@ -133,3 +133,4 @@ dmypy.json
 >>>>>>> de27558 (1.0.0)
 
 *.session
+*.session-journal
